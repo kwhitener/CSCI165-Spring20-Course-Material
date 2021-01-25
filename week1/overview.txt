@@ -1,0 +1,9 @@
+Course and Procedure Overview
+Ice Breaker Discussion
+Installation and configuration of important software
+    ~ Java
+    ~ JavaFX
+    ~ Git
+    ~ VS Code
+Test software configuration
+Learn (and test) how to submit work
