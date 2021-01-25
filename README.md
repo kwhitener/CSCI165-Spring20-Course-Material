@@ -1,2 +1,2 @@
-# CSCI165-Spring20-Course-Material
+# CSCI165-Spring21-Course-Material
 All readings, code examples and assignments will be available here
