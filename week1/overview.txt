@@ -7,3 +7,5 @@ Installation and configuration of important software
     ~ VS Code
 Test software configuration
 Learn (and test) how to submit work
+
+<make a change just to demonstrate git>
