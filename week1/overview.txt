@@ -9,3 +9,22 @@ Test software configuration
 Learn (and test) how to submit work
 
 <make a change just to demonstrate git>
+
+How I fixed my authentication:
+
+git remote set-url origin https://kwhitener:<MYTOKEN>@hgithub.com/kwhitener/CSCI165-Spring21-Course-Material.git
+
+You must replace <MYTOKEN> with your actual personal access token. So it would look something like this
+
+<a6678e56f5567cd99778dc8908932>
+
+git remote set-url origin https://kwhitener:<a6678e56f5567cd99778dc8908932>@hgithub.com/kwhitener/CSCI165-Spring21-Course-Material.git
+
+A MUCH MORE SECURE WAY TO HANDLE THIS would be to add your token as an environment variable so you do not have to add it plain text.
+
+My actual syntax loked like this
+
+git remote set-url origin https://kwhitener:<$token>@hgithub.com/kwhitener/CSCI165-Spring21-Course-Material.git
+
+Because I created an environment variable called token.
+
