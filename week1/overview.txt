@@ -28,3 +28,5 @@ git remote set-url origin https://kwhitener:<$token>@hgithub.com/kwhitener/CSCI1
 
 Because I created an environment variable called token.
 
+<Just another authentication test>
+
