@@ -1,3 +1,8 @@
+/*
+    Author: Ken Whitener
+    Date: 2/8/2021
+    Assignment: Lab on Java data and math
+*/
 public class LabPrep{
 
     public static void main(String[] args) {

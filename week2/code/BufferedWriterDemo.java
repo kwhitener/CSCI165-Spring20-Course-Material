@@ -1,6 +1,6 @@
 /*
     This program demonstrates writing to a file using the BufferedWriter class
-    If you anticiapte many small writes (such as loop with write()) you can gain efficiency 
+    If you anticipate many small writes (such as loop with write()) you can gain efficiency 
     by buffering the writes. This reduces the number of times the OS has to actually
     write to the file.
 */
