@@ -8,7 +8,7 @@ public class ScannerFileExample {
         // must use try/catch when connecting to a file
         try{
             //create File instance to reference text file name/path
-            File text = new File("ScannerFile.txt");
+            File text = new File("ScannerFile.txt"); // instantiating a File object
         
             //Create Scanner instance to connect to the File object
             // pass File object into Scanner constructor to associate the two
