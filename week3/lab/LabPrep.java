@@ -4,6 +4,8 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// import java.io.*;
+
 public class LabPrep{
     /*
         This program will combine the contents of the files
