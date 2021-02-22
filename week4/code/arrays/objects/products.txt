@@ -1,0 +1,10 @@
+Syrup - Chocolate	74.75	1
+Cheese - Roquefort Pappillon	65.24	15
+Bacardi Raspberry	51.17	11
+Broom Handle	79.38	15
+Oregano - Dry, Rubbed	20.52	9
+Beer - Heinekin	83.49	3
+Lobak	53.19	8
+Soup Campbells - Italian Wedding	55.6	17
+Wine - Niagara,vqa Reisling	66.49	18
+Asparagus - Mexican	23.64	17
