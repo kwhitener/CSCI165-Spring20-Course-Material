@@ -1,0 +1,8 @@
+In week five we will discuss multi-dimensional arrays. In articular, arrays of 2 dimensions.
+The readings and code samples for this week can be found in the week4 folder
+Please review the material on 2D arrays before lecture on Wednesday
+
+The discussion for this week will be the beginning portion of next week's lab and will consist of
+    
+    ~ Processing a matrix of data. Iterating, finding the maximum and minmum values
+    ~ Do some simple Java2D graphics
