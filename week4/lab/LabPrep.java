@@ -19,12 +19,14 @@ import java.util.Random; // for random numbers
 public class LabPrep {
 
     public static void main(String[] args) {
+
         String codes    = "*BEA@FK%RM";         // KenSpeak code table
         String toCode   = "918273645";          // number to transliterate to KenSpeak
         String coded    = encode(codes, toCode);// call the encode method, passing the code table and number
         System.out.printf("%s coded to KenSPeak is %s\n\n", toCode, coded);  
         
         String characterSet = generateCodeTableCharacterSet();      // call method to create character set
+        System.out.println(characterSet);
         String codeTable    = generateRandomCodeTable(characterSet);// given the character set, generate a code table
         System.out.printf("Random KenSpeak code table %s\n\n",codeTable);
 
@@ -40,7 +42,11 @@ public class LabPrep {
      */
     public static String encode(String code, String number){
 
+<<<<<<< HEAD
         String encoded = "";    // local variable                                        // variable to hold encoded result
+=======
+        String encoded = "";                                           // variable to hold encoded result
+>>>>>>> 054c48475ac1fea1656994b1ef5687b2f09d7edb
 
         for(int index = 0; index < number.length(); ++index){           // iterate through the data to encode
             int digit = Character.getNumericValue(number.charAt(index));// get the char and convert it to the value it represents
@@ -86,8 +92,8 @@ public class LabPrep {
         */
         String codeTable = "";
         Random random = new Random();                               // use the Random class to get a random integer
-
-        while(codeTable.length() < 10){                             // want 10 unique characters from character set
+        final int SIZE = 10;
+                                    // want 10 unique characters from character set
             int randomIndex = random.nextInt(characterSet.length());// get a random number based on length of character set
             char candidateChar = characterSet.charAt(randomIndex);  // grab that char
             if(!codeTable.contains(String.valueOf(candidateChar)))  // see if it is already in the codeTable
