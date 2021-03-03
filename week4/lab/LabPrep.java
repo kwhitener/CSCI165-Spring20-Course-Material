@@ -42,7 +42,11 @@ public class LabPrep {
      */
     public static String encode(String code, String number){
 
+<<<<<<< HEAD
+        String encoded = "";    // local variable                                        // variable to hold encoded result
+=======
         String encoded = "";                                           // variable to hold encoded result
+>>>>>>> 054c48475ac1fea1656994b1ef5687b2f09d7edb
 
         for(int index = 0; index < number.length(); ++index){           // iterate through the data to encode
             int digit = Character.getNumericValue(number.charAt(index));// get the char and convert it to the value it represents
