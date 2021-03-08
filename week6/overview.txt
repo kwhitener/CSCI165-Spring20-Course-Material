@@ -1,0 +1,19 @@
+Overview for Week 6
+
+Monday Lab:
+===========
+Begin the Lowest Elevation Walk Lab. Will be due Friday 3/12/2021 by midnight as usual.
+
+Discussion:
+===========
+No official discussion for this week but I would willingly participate in an exam review dicsussion. 
+This would probably be better held on Discord. I'll make a channel in our class area on Discord.
+
+Midterm Exam:
+=============
+For students enrolled in the in-person section of CS2 (M01), you will take the exam on Monday 3/15/2021 during normal class hours.
+
+For students enrolled in the strictly online section of CS2 (BL1), you will have from between Monday morning at 8:30 am to Wednesday night at Midnight to complete the exam.
+It will be timed via Blackboard, so the minute you start it, you will have 1 hour and 40 minutes to finish. You cannot take the test in segments so be sure to have the time set aside.
+
+I have set aside lecture on Wednesday 3/10/2021 for an exam review period. I will not prepare anything official in terms of an exam review but I will gladly answer any questions you have.
